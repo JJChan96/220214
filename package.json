@@ -1,0 +1,14 @@
+{
+  "name": "220214",
+  "version": "1.0.0",
+  "description": "Project 폴더 -> C:\\Users\\pc-007\\Document\\workspace\\leacure\r Project 폴더에서 src를 가라! -> C:\\Users\\pc-007\\Document\\workspace\\leacure\\src",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
