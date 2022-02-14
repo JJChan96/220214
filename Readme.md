@@ -124,3 +124,5 @@ Revert : 특정한 구간을 취소하고 싶을 때
 
 
 4. merge, rebase 커밋을 합쳐주는 행위
+
+merge : 브랜치 합치기 -> git merge [합칠 브랜치]
