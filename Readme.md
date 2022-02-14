@@ -121,3 +121,6 @@ Revert : 특정한 구간을 취소하고 싶을 때
 - 브랜치 바꾸기 : git checkout [브랜치명] ex) git checkout test
 
 나의 브랜치는 ㅅㄷㅌㅅ다~
+
+
+4. merge, rebase 커밋을 합쳐주는 행위
