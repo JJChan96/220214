@@ -108,6 +108,7 @@ Revert : 특정한 구간을 취소하고 싶을 때
 
 
 
+<<<<<<< HEAD
 3. branch 커밋을 나누는 행위
 
 - 브랜치 보기 : git branch -> 현재는 master 하나라도 뜨는 것을 알 수있다
@@ -126,3 +127,7 @@ Revert : 특정한 구간을 취소하고 싶을 때
 4. merge, rebase 커밋을 합쳐주는 행위
 
 merge : 브랜치 합치기 -> git merge [합칠 브랜치]
+=======
+3. branch
+ 나는 master 브랜치이다!
+>>>>>>> master
